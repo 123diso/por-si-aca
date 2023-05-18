@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Pantalón en cuero sintético",
+        "price": 100,
+        "description": "",
+        "category": "men's clothing",
+        "image": "./Imgs./00019-peter-do-spring-2023-ready-to-wear-credit-monica-feudi.jpg.webp"
+    },
+    {
+        "id": 2,
+        "title": "Vestido amarillo con capucha",
+        "price": 100,
+        "description": "",
+        "category": "women's clothing",
+        "image": "./Imgs./00020-saint-laurent-spring-2023-ready-to-wear-credit-gorunway.jpg.webp"
+    },
+    {
+        "id": 3,
+        "title": "Gabán en color beige oversized",
+        "price": 100,
+        "description": "",
+        "category": "women's clothing",
+        "image": "./Imgs./00033-dries-van-noten-spring-2023-ready-to-wear-credit-gorunway.jpg.webp"
+    },
+    {
+        "id": 4,
+        "title": "Vestido azul primaveral",
+        "price": 100,
+        "description": "",
+        "category": "women's clothing",
+        "image": "./Imgs./app001prod.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Gabán negro oversized",
+        "price": 100,
+        "description": "",
+        "category": "men's clothing",
+        "image": "./Imgs./LGN_fw23_runway_press_look06.jpeg.webp"
+    },
+    {
+        "id": 6,
+        "title": "Suéter gris oversized en lana",
+        "price": 100,
+        "description": "",
+        "category": "men's clothing",
+        "image": "./Imgs./LGN_fw23_runway_press_look09.jpeg.webp"
+    },
+    {
+        "id": 7,
+        "title": "Conjunto de tres piezas, camiseta, pantalón y saco en celeste",
+        "price": 100,
+        "description": "",
+        "category": "men's clothing",
+        "image": "./Imgs./LGN_fw23_runway_press_look21.jpeg.webp"
+    },
+    {
+        "id": 8,
+        "title": "Chaqueta oversized en cuero sintético",
+        "price": 100,
+        "description": "",
+        "category": "men's clothing",
+        "image": "./Imgs./VO0423_Designer_01.jpg.webp"
+    },
+    {
+        "id": 9,
+        "title": "Vestido blanco elegante",
+        "price": 100,
+        "description": "",
+        "category": "women's clothing",
+        "image": "./Imgs./w1365_q60.jpg.avif"
+    }
+]
